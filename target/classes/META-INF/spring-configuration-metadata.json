@@ -1,0 +1,117 @@
+{
+  "groups": [
+    {
+      "name": "briup.config",
+      "type": "com.briup.cms.common.config.ConfigProperties",
+      "sourceType": "com.briup.cms.common.config.ConfigProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "briup.config.auth-exclude-path-patterns",
+      "type": "java.lang.String[]",
+      "sourceType": "com.briup.cms.common.config.ConfigProperties"
+    },
+    {
+      "name": "briup.config.auth-include-path-patterns",
+      "type": "java.lang.String",
+      "sourceType": "com.briup.cms.common.config.ConfigProperties"
+    },
+    {
+      "name": "briup.config.cors-allow-credentials",
+      "type": "java.lang.Boolean",
+      "sourceType": "com.briup.cms.common.config.ConfigProperties"
+    },
+    {
+      "name": "briup.config.cors-allowed-headers",
+      "type": "java.lang.String",
+      "sourceType": "com.briup.cms.common.config.ConfigProperties"
+    },
+    {
+      "name": "briup.config.cors-allowed-methods",
+      "type": "java.lang.String[]",
+      "sourceType": "com.briup.cms.common.config.ConfigProperties"
+    },
+    {
+      "name": "briup.config.cors-allowed-origins",
+      "type": "java.lang.String",
+      "sourceType": "com.briup.cms.common.config.ConfigProperties"
+    },
+    {
+      "name": "briup.config.cors-mapping",
+      "type": "java.lang.String",
+      "sourceType": "com.briup.cms.common.config.ConfigProperties"
+    },
+    {
+      "name": "briup.config.cors-max-age",
+      "type": "java.lang.Long",
+      "sourceType": "com.briup.cms.common.config.ConfigProperties"
+    },
+    {
+      "name": "briup.config.default-date-pattern",
+      "type": "java.lang.String",
+      "sourceType": "com.briup.cms.common.config.ConfigProperties"
+    },
+    {
+      "name": "briup.config.excel-export-content-disposition",
+      "type": "java.lang.String",
+      "sourceType": "com.briup.cms.common.config.ConfigProperties"
+    },
+    {
+      "name": "briup.config.excel-export-content-type",
+      "type": "java.lang.String",
+      "sourceType": "com.briup.cms.common.config.ConfigProperties"
+    },
+    {
+      "name": "briup.config.excel-export-encoding",
+      "type": "java.lang.String",
+      "sourceType": "com.briup.cms.common.config.ConfigProperties"
+    },
+    {
+      "name": "briup.config.excel-export-file-type",
+      "type": "com.alibaba.excel.support.ExcelTypeEnum",
+      "sourceType": "com.briup.cms.common.config.ConfigProperties"
+    },
+    {
+      "name": "briup.config.ip-query-server-host",
+      "type": "java.lang.String",
+      "sourceType": "com.briup.cms.common.config.ConfigProperties"
+    },
+    {
+      "name": "briup.config.oss-access-key",
+      "type": "java.lang.String",
+      "sourceType": "com.briup.cms.common.config.ConfigProperties"
+    },
+    {
+      "name": "briup.config.oss-base-url",
+      "type": "java.lang.String",
+      "sourceType": "com.briup.cms.common.config.ConfigProperties"
+    },
+    {
+      "name": "briup.config.oss-bucket",
+      "type": "java.lang.String",
+      "sourceType": "com.briup.cms.common.config.ConfigProperties"
+    },
+    {
+      "name": "briup.config.oss-default-file-name",
+      "type": "java.lang.String",
+      "sourceType": "com.briup.cms.common.config.ConfigProperties"
+    },
+    {
+      "name": "briup.config.oss-secret-key",
+      "type": "java.lang.String",
+      "sourceType": "com.briup.cms.common.config.ConfigProperties"
+    },
+    {
+      "name": "briup.config.security-secret",
+      "type": "java.lang.String",
+      "sourceType": "com.briup.cms.common.config.ConfigProperties"
+    },
+    {
+      "name": "briup.config.security-strength",
+      "type": "java.lang.Integer",
+      "sourceType": "com.briup.cms.common.config.ConfigProperties"
+    }
+  ],
+  "hints": []
+}
