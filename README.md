@@ -1,2 +1,2 @@
-# Dormitory-management-system
-#学生宿舍管理系统
+# 看点资讯后台管理系统
+#要搭配前端平台使用
